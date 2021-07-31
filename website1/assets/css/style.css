@@ -1,3 +1,13 @@
 body{
     background: #BDBDBD;
 }
+
+.first-heading{
+    width: 1500px;
+    margin: 0px 150px 0px 150px; 
+}
+
+.portfolio {
+    width: 1500px;
+    margin: 0px 150px 0px 150px;
+}
