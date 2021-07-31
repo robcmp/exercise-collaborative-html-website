@@ -7,13 +7,30 @@ body{
     margin: 0px 150px 0px 150px; 
 }
 
+.services{
+    width: 1500px;
+    margin: 0px 150px 0px 150px;
+}
+
 .portfolio {
     width: 1500px;
     margin: 0px 150px 0px 150px;
 }
 
-.portada{
-    background-color:white;
-    background-image: url("website1/assets/img/bg.jpg");
+.contact{
+ width: 1500px;
+    margin: 0px 150px 0px 150px;
+}
 
+.text-contact{
+padding-left: 100px;
+}
+
+
+
+.portada{
+    background: url("/website1/assets/img/bg.jpg");
+    height: 700px;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
