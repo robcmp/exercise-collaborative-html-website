@@ -28,6 +28,6 @@ header:before {
     opacity: 0.5;
   }
 
-  header div.container{
+header div.container{
       position: relative !important;
   }
