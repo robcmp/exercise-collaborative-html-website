@@ -21,6 +21,8 @@ header{
 header:before {
     content: "";
     position: absolute;
+    background: url("/website1/assets/img/bg.jpg") no-repeat center center;
+    background-size: cover;
     height: 100%;
     width: 100%;
     top: 0;
